@@ -1,0 +1,22 @@
+{
+    "name": "lantongxue/csv-reader",
+    "description": "A high-performance and low-memory CSV reader",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "lantongxue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lantongxue",
+            "email": "863448246@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">= 7.1.0"
+    }
+}
