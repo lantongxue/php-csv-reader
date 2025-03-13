@@ -2,6 +2,13 @@
 A high-performance and low-memory CSV reader
 
 # Usage
+
+install
+
+```bash
+composer require lantongxue/csv-reader
+```
+
 CSVReader constructor parameters：
 
 ```php
